@@ -1,12 +1,14 @@
-argument; A value provided to a function when you call it.; stackoverflow
-module; A file containing Python definitions and statements.; python docs
-dictionary; An associative array of items.; python-course.eu
-ASCII table; Character encoding standard table.; wikipedia
-variable; Reserved memory locations to store values.; tutorialspoint.com
-function; A function is a block of code that is used to perform a single and related action.; tutorialspoint.com
-parameter; A named entity in a function definition that specifies an argument.; python docs
-tuple; A sequence of immutable Python objects.; tutorialspoint.com
-CSV; A file storing tabular data (numbers and text) in plain text.; wikipedia
-GIT; A version control system (VCS) for tracking changes in computer files; wikipedia
-Shell; A type of structural element which is characterized by its geometry; wikipedia
-IDE; A software application that provides comprehensive facilities ; wikipedia
+codecool;A place where you feel safe and warm.;own experience;
+forest;a place where wild animals are stored;life;
+dictionary; An associative array of items.; python-course.eu;
+tuple; A sequence of immutable Python objects.; tutorialspoint.com;
+shell; A type of structural element which is characterized by its geometry; wikipedia;
+ascii table; Character encoding standard table.; wikipedia;
+ide; A software application that provides comprehensive facilities; wikipedia;
+argument; A value provided to a function when you call it.; stackoverflow;
+parameter; A named entity in a function definition that specifies an argument.; python docs;
+csv; A file storing tabular data (numbers and text) in plain text.; wikipedia;
+git; A version control system (VCS) for tracking changes in computer files; wikipedia;
+function; A function is a block of code that is used to perform a single and related action.; tutorialspoint.com;
+module; A file containing Python definitions and statements.; python docs;
+variable; Reserved memory locations to store values.; tutorialspoint.com;
